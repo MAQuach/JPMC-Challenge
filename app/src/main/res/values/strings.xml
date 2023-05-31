@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JPMC Weather App</string>
+
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="check_your_current_location">Check your current location</string>
+    <string name="location">Location</string>
+    <string name="no_location_info">No information available for specific location</string>
+
+    <string name="temperature">Temperature: %s</string>
+    <string name="temperature_max">Max Temperature: %s</string>
+    <string name="temperature_min">Min Temperature: %s</string>
+    <string name="temperature_feels_like">Temperature Feels Like: %s</string>
+</resources>
